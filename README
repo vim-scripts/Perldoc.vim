@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=209
+
+The Perldoc.vim plugin is a command + function that enables the perldoc command to be used from within the Vim text editor.  When activated the Perldoc command opens a new window at the top of the screen and places the output of the perldoc command into that window. This read-only window is just a Vim window, so you can perform all of the normal commands that you can in Vim - such as searching for a word or expression, yanking examples and code snippets.
